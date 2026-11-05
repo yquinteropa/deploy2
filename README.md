@@ -13,12 +13,7 @@ personalizada. La infraestructura está definida en `templates/template.yaml`
 - `templates/template.yaml`: plantilla de CloudFormation (EC2 + Security Group + User Data)
 - `README.md`
 
-## Estudiante
-
-- Nombre: TU NOMBRE COMPLETO
-- Código: TU_CODIGO
-- Docente: Wilder Andrés Duarte Neira
-
+## PORQUE NO LE SIRVE A KEVIN
 ## Sitio web desplegado
 
 http://IP_PUBLICA
